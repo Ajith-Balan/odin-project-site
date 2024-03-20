@@ -13,3 +13,21 @@
 .base{
   background-color: rgb(246, 245, 245);
 }
+.stories{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.success{
+  background: linear-gradient(rgb(255, 255, 255),rgb(211, 209, 209));
+}
+.ld{
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+
+}
+.lg{
+  justify-content: space-between;
+  align-items: center;
+}
