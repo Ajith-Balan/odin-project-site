@@ -1,8 +1,9 @@
 .text1{
   
-  font-size: 50px;
+  font-size: 60px;
   line-height: 1;
 }
+
 .text2{
    font-size: 20px;
 }
@@ -28,6 +29,12 @@
 
 }
 .lg{
-  justify-content: space-between;
+ 
   align-items: center;
+}
+.foot{
+  border-top: 1px solid black;
+}
+.sqr{
+  width: 90%;
 }
